@@ -4,3 +4,4 @@ BTU:United Kingdom
 DBT:Germany
 XAR:United States
 XEF:France
+TEL:Australia
