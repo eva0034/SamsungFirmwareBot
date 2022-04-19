@@ -51,8 +51,8 @@ public class SamsungFWBot extends TelegramLongPollingBot {
 
     public static final HashMap<String, String> KNOWN_REGIONS = new HashMap<>();
     public static final List<String> KNOWN_MODELS = new ArrayList<>();
-    public static final String KERNEL_REPO_URL = "https://github.com/Linux4/samsung_kernel";
-    public static final String GH_USER = "Linux4";
+    public static final String KERNEL_REPO_URL = "https://github.com/eva0034/samsung_kernel";
+    public static final String GH_USER = "eva0034";
 
     public static void main(String[] args) {
         if (args.length != 4 && args.length != 5) {
